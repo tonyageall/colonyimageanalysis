@@ -5,7 +5,10 @@ Missing a colony picker but have a way to single-cell sort? If you can sort into
 
 ## OutPut JPG Examples
 It takes images that start like this:
+
 ![Starting MultiWell Image (384)](testdata/pick/384WP039_S3.jpg)
+
+And create this:
 
 ![After Processing MultiWell Image (384)](testdata/pick/384WP039_grid.jpg)
 
