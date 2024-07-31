@@ -3,11 +3,12 @@ LatchBio (https://latch.bio/) is a platform designed to allow backend developers
 
 Missing a colony picker but have a way to single-cell sort? If you can sort into agar-filled multi-well plates and have access to liquid handling that can cherry-pick, this is for you. This script uses the contrasting of agar-plated bacteria imaged with a gel imager.
 
-## OutPut JPG Examples
+## Input JPG Example
 It takes images that start like this:
 
 (testdata/pick/384WP039_S3.jpg)
 
+## Output JPG Example
 And create this:
 
 (testdata/pick/384WP039_grid.jpg)
