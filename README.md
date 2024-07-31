@@ -1,5 +1,5 @@
 # colonyimageanalysis
-LatchBio is a platform designed to allow backend developers to create GUIs for teammates who prefer not to deal with executables or CLI. This workflow is tailored for "gorilla science."
+LatchBio (https://latch.bio/) is a platform designed to allow backend developers to create GUIs for teammates who prefer not to deal with executables or CLI. This workflow is tailored for "gorilla science."
 
 Missing a colony picker but have a way to single-cell sort? If you can sort into agar-filled multi-well plates and have access to liquid handling that can cherry-pick, this is for you. This script uses the contrasting of agar-plated bacteria imaged with a gel imager.
 
