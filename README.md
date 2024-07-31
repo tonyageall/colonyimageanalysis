@@ -6,12 +6,12 @@ Missing a colony picker but have a way to single-cell sort? If you can sort into
 ## Input JPG Example
 It takes images that start like this:
 
-(testdata/pick/384WP039_S3.jpg)
+[! starting image](testdata/pick/384WP039_S3.jpg)
 
 ## Output JPG Example
 And create this:
 
-(testdata/pick/384WP039_grid.jpg)
+[! markedup image](testdata/pick/384WP039_grid.jpg)
 
 ## Output CSV production
 Here is the generated table from the CSV file:
